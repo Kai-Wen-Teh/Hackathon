@@ -1,6 +1,6 @@
 # Hackathon
-Group 8
-Members:
-Lye Guan Yan
-Ng Zu Shen
-Teh Kai Wen
+# Group 8
+> Members:
+1. Lye Guan Yan
+2. Ng Zu Shen
+3. Teh Kai Wen
