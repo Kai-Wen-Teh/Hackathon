@@ -1,7 +1,11 @@
 import shop_checker
 
-# create 10 fake sample shops
+test = shop_checker.Shop("name", "description", "image", "location")
+shop_checker.add_shop(test)
 
+shop_checker.clear_shops()
+
+# create 10 fake sample shops
 for i in range(10):
     name = "shop" + str(i)
     description = "description" + str(i)
@@ -19,4 +23,3 @@ shop_checker.check_shop_image(name)
 
 #check shop status based on the name
 shop_checker.check_shop_status(name)
-
